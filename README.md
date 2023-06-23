@@ -2,3 +2,4 @@
 - UMAP_histogramme: des histogrammes de cellule par gens et ses visualisations avec umap
 - Analyze_Ovarian_cancer_data et Analyze_mouse_brain_data: les tuto squidpy
 - Statistique_gens_par_cellule: tableau de min, max, moyenne des gens qui représente dans le cellule
+- Synthetic_protein: simulation protein dataset
