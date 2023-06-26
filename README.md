@@ -3,3 +3,4 @@
 - Analyze_Ovarian_cancer_data et Analyze_mouse_brain_data: les tuto squidpy
 - Statistique_gens_par_cellule: tableau de min, max, moyenne des gens qui représente dans le cellule
 - Synthetic_protein: simulation protein dataset
+- Auto_encodeur_mARN: Modèle de l'auto encodeur
